@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm an aspiring mobile app developer currently working as a DevOps Engineer in Winnipeg, Manitoba.
+👨🏻‍💻 I write code to solve problems
+🛠 I work as a DevOps Engineer in Winnipeg, Manitoba
 
-I can't get enough of 🍝
-
-I currently spend my free time writing Swift 👨🏻‍💻
+I can't get enough of 🍝 & my 🐕
+I currently spend my free time crafting new app ideas 🌱
 
 <!--
 **HugeIRL/HugeIRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
