@@ -1,5 +1,5 @@
-<h3>Hi there 👋<br>I'm Jared<br> a Web Developer, DevOps Engineer & more</h1
-<h6>I build websites, design web graphics, create apps, write automation, eat lots of 🍝 and take care of my two 🐕.<br>I have over 15 years of tech experience, building websites, designing web layouts and trying out new things.<br><br>I’m currently learning <a href="https://developer.apple.com/swift/">Swift</a> in my free time. 👨🏻‍💻</h6>
+<h3>Hi there 👋<br>I'm Jared<br> a Full Stack Web Developer, DevOps Engineer & more</h1
+<h6>I build websites, design web graphics, create apps, write automation, eat lots of 🍝 and take care of my two 🐕.<br>I have over 15 years of tech experience which includes: building computers, building websites, designing web layouts and trying out new things.<br><br>I’m currently learning <a href="https://developer.apple.com/swift/">Swift</a> in my free time. 👨🏻‍💻</h6>
 
 
 
