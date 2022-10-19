@@ -1,5 +1,5 @@
 <h3>Hi there 👋<br>I'm Jared<br> a Full Stack Developer, DevOps Engineer & more</h1
-<h6>I have over 16 years of tech experience which includes building computers, creating websites, designing web layouts and trying out new things.<br>On the non tech side, I eat lots of 🍝 and take care of my two 🐕.<br><br>I’m currently learning <a href="https://developer.apple.com/swift/">Swift</a> in my free time. 👨🏻‍💻</h6>
+<h6>I have over 16 years of tech experience which includes building computers, creating websites, designing web layouts and trying out new things. On the non tech side, I eat lots of 🍝 and take care of my two 🐕.<br><br>I’m currently learning <a href="https://developer.apple.com/swift/">Swift</a> in my free time. 👨🏻‍💻</h6>
 
 
 
