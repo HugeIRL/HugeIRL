@@ -9,7 +9,7 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=HugeIRL&theme=onedark&show_icons=true&count_private=true)<br> -->
   
 <br><br>👨🏻‍💻 I’m currently learning <a href="https://developer.apple.com/swift/">Swift</a> in my free time
-<br> 📫 You can reach me at: hello@mariash.ca
+<br> 📫 You can reach me at hello@mariash.ca
 <br> 🤔 Fun fact: Tabs are better then spaces
 
 
