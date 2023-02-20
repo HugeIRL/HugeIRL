@@ -6,7 +6,7 @@ I'm Jared, a Full Stack Web Developer, DevOps Engineer & more! I have over 16 ye
 <br> -->
 
 <br> 💻 I’m currently learning <a href="https://developer.apple.com/swift/">Swift</a> in my free time
-<br> 📫 You can reach me at hello@mariash.ca
+<br> 📫 How to reach me: hello@mariash.ca
 <br> 🤔 Fun fact: Tabs are better then spaces
 <br><br>
 
