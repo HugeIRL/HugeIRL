@@ -1,12 +1,11 @@
 <h3>Hi there 👋</h3>
-I'm Jared, a Full Stack Web Developer, DevOps Engineer & more! I have over 16 years of tech experience which includes building computers, creating websites, designing web layouts and trying out new things. On the non tech side, I eat lots of 🍝 and take care of my two 🐕.
+I'm Jared, a Support Engineer, Full Stack Web Developer, DevOps Engineer & more! I have over 16 years of tech experience which includes building computers, creating websites, designing web layouts and trying out new things. On the non tech side, I eat lots of 🍝 and take care of my two 🐕.
 <br><br>
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugeIRL&show_icons=true&theme=dracula&locale=en&layout=compact)
 <br> -->
 
 <br> 💻 I’m currently learning <a href="https://developer.apple.com/swift/">Swift</a> in my free time
-<br> 📫 How to reach me: hello@mariash.ca
 <br> 🤔 Fun fact: Tabs are better then spaces
 <br><br>
 
