@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-I'm Jared, a Support Engineer, Full Stack Web Developer, DevOps Engineer & more! I have over 16 years of tech experience which includes building computers, creating websites, designing web layouts and trying out new things. On the non tech side, I eat lots of 🍝 and take care of my two 🐕.
+I'm Jared, a Support Engineer among other development positions in my career. I have over 16 years of tech experience which includes building computers, creating websites, designing web layouts, building apps and trying out new things. On the non tech side, I eat lots of 🍝 and take care of my two 🐕.
 <br><br>
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugeIRL&show_icons=true&theme=dracula&locale=en&layout=compact)
