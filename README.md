@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-I'm Jared, a Support Engineer and tech enthusiast. I have over 16 years of tech-related experience which includes building computers, creating websites, designing web layouts, building apps and trying out new things. On the non tech side, I eat lots of 🍝 and take care of my three 🐕s.
+I'm Jared, a Technical Account Manager @ Buildkite and a tech enthusiast. I have over 16 years of tech-related experience which includes building computers, creating websites, designing web layouts, building apps and trying out new things. On the non tech side, I eat lots of 🍝 and take care of my three 🐕s.
 <br><br>
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugeIRL&show_icons=true&theme=dracula&locale=en&layout=compact)
